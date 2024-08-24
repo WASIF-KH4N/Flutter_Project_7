@@ -27,25 +27,25 @@ class MyApp extends StatelessWidget {
 class MyHomePage extends StatelessWidget {
   var arrData=[
     {
-      'name':'Wasif','roll_no':'101','unread':'2'
+      'name':'Wasif','roll_no':'101','unread':'10'
     },
     {
-      'name':'Faizan','roll_no':'102','unread':'6'
+      'name':'Faizan','roll_no':'102','unread':'20'
     },
     {
-      'name':'Suleman','roll_no':'103','unread':'22'
+      'name':'Suleman','roll_no':'103','unread':'30'
     },
     {
-      'name':'Zubair','roll_no':'104','unread':'3'
+      'name':'Zubair','roll_no':'104','unread':'40'
     },
     {
-      'name':'Mubashir','roll_no':'105','unread':'99'
+      'name':'Mubashir','roll_no':'105','unread':'50'
     },
     {
-      'name':'Arman','roll_no':'106','unread':'1'
+      'name':'Arman','roll_no':'106','unread':'60'
     },
     {
-      'name':'Ahsaan','roll_no':'107','unread':'117'
+      'name':'Ahsaan','roll_no':'107','unread':'70'
     },
 
   ];
