@@ -54,7 +54,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-    title:Center(child: Text("MAPPING LISTS",style: TextStyle(fontSize: 24,fontWeight: FontWeight.bold),)),
+    title:Center(child: Text("MAPPING LISTS",style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),)),
       backgroundColor: Colors.cyan,
       ),
       body:Container(
@@ -69,7 +69,7 @@ class MyHomePage extends StatelessWidget {
           backgroundColor: Colors.cyan,
           child: Text(value['unread'].toString())),
 
-          )
+            )
           ).toList()
           ),
       ),
