@@ -65,7 +65,7 @@ class MyHomePage extends StatelessWidget {
                 title: Text(value['name'].toString()),
                 subtitle: Text(value['roll_no'].toString()),
                 trailing: CircleAvatar(
-                  radius: 10,
+                  radius: 12,
           backgroundColor: Colors.cyan,
           child: Text(value['unread'].toString())),
 
